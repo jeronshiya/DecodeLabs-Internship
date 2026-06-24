@@ -100,5 +100,3 @@ The wireframe provides a clear blueprint for the future user interface. It impro
 
 ---
 
-DecodeLabs Internship | Project 2 – The Blueprint (Wireframing)
-
